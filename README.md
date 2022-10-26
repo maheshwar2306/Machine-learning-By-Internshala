@@ -27,7 +27,7 @@ It is a 6 week long hands on training on Machine Learning, they covers everythin
 7- [K-Mean Clustring](https://github.com/Rishabh062/Machine-learning-By-Internshala/tree/main/K%20Mean%20Clustring)
 
 
-**Show some ❤️ and star ⭐ this repository**
+Done by:"K MAHESWAR "
 
 
 
